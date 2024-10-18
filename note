@@ -1,2 +1,4 @@
 CP Examples
-https://github.com/bablokb/xmas-music-box/blob/master/uart/files/lib/DFPlayer.pytest 2
+Audio
+ - DFPlayer
+   https://github.com/bablokb/xmas-music-box/blob/master/uart/files/lib/DFPlayer.py
